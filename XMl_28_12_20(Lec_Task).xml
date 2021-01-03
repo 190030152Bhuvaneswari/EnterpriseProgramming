@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+<student>
+<regid>190030152</regid>
+<name>bhuvana</name>
+<marks>98</marks>
+<emailid>b@gmail.com</emailid>
+</student>
+<student>
+<regid>190030590</regid>
+<name>priya</name>
+<marks>90</marks>
+<emailid>p@gmail.com</emailid>
+</student>
+</Students>
