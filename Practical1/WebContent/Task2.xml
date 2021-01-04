@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students_info SYSTEM "Task2.dtd" >
+<students_info>
+	<student>
+		<regno>190030152</regno>
+		<name>Bhuvana</name>
+		<avg>92</avg>
+		<dob>19-11-2001</dob>
+		<time>10.00</time>
+		<mobileno>7780979656</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>190030590</regno>
+		<name>priya</name>
+		<avg>89</avg>
+		<dob>08-03-2002</dob>
+		<time>8.30</time>
+		<mobileno>87960868698</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>190030001</regno>
+		<name>Sai</name>
+		<avg>96</avg>
+		<dob>19-11-1996</dob>
+		<time>10.30</time>
+		<mobileno>9896685770</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>190030007</regno>
+		<name>Vamsi</name>
+		<avg>87</avg>
+		<dob>12-08-2002</dob>
+		<time>11.00</time>
+			<mobileno>98076857609</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student>
+		<regno>190040745</regno>
+		<name>Phani</name>
+		<avg>80</avg>
+		<dob>09-08-1999</dob>
+		<time>9.30</time>
+		<mobileno>87960868698</mobileno>
+		<distinction>YES</distinction>
+	</student>
+
+</students_info>
